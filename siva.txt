@@ -1,0 +1,80 @@
+Morning Task :
+
+DEVOPS:
+
+1.GIT and GIT HUB -- Done }
+2.Maven           }--- 1-Week
+3.Jenkins         }
+4.Ansible      -- 4 Days
+5.Terraform   
+6.Container       }
+7.Docker          } --- 1-Week
+8.Kubernets       }
+
+
+
+CLOUD : 
+
+
+
+Evening Task :
+
+LINUX :
+=====
+1.DISK MANAGEMENT : 3 Days
+
+	1.How to lv create partition. --- Done
+	2.How to extend the lvm. --- Done
+	3.How to reduce the lvm for xfs.  -- Done
+	4.How to reduce the lvm for ext4. --  Done
+	5.What is snapshot and create the snapshot and merge into the lv. --- Done
+	6.How get the lvm for restoring using vgcfgrestore. --- Done
+	7.How to remove the disk from the server --- Done
+	8.What is PE and LE --- Done
+	9.How to get the disk from virtual server. --- Done
+	10.How to get the disk from Physical server. --- Done
+	11.How to find the HBA card number or wwn number and lun numbers. --- Done
+	
+	
+
+
+2SERVICES : 1 Week 
+	1.SSH 	-- Done
+	2.NFS 	-- Done
+		Q.What is nfs 
+		Q.What is port for NFS ? 2049
+		Q.What is difference between sync and async
+		Q.What is difference between root_squash and no_root_squash
+		Q.What is difference between hard mount and soft mount
+		Q.How to export the nfs file system.
+		Q.How to check the NFS version.
+		Q.How to fix the stale error issue
+	3.Autofs
+	4.SAMBA
+	5.FTP
+	6.NTP 
+	7.HTTPD
+	8.Rsync
+	
+3.FIND    -- Done}
+4.SUDO    -- Done}
+5.CRONTAB -- Done}
+6.PACKAGE MANAGEMENT --- 3 Days Working
+7.Permission -- Done} 
+8.Umask      -- Done}
+9.Environment Files -- Done
+10.Stiky Bit -- }
+11.ACL ---      } Done
+12.Links --     }
+13.User Administration --- Done 
+14.Swap - 1 Day
+15.Grub Error / Kernal Panic Error
+16.Forget root password
+17.Booting Process
+18.Files Zip
+
+V-CENTER :
+1.How to create the server in v-center.
+2.How to add the disk/ram/cpu cores into the existing vm.
+3.How to assign IP to the Virtual Server.
+
