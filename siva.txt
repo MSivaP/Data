@@ -11,6 +11,11 @@ DEVOPS:
 7.Docker          } --- 1-Week
 8.Kubernets       }
 
+
+
+
+
+
 Evening Task :
 
 LINUX :
