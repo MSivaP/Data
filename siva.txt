@@ -13,7 +13,6 @@ DEVOPS:
 
 
 
-CLOUD : 
 
 
 
