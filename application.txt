@@ -21,8 +21,6 @@ cat /sys/class/fc_host/host1/node_name
 To get the WWPN (World Wide Port Number) of HBA or FC card in Linux
 
 
-cat /sys/class/fc_host/host0/port_name0x10000000c9538d83
-cat /sys/class/fc_host/host1/port_name0x10000000c9538dac
 
 
 
