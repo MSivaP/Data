@@ -67,4 +67,12 @@ LINUX :
 17.Booting Process
 18.Files Zip
 
+<<<<<<< HEAD
 vm ware worksation
+=======
+<<<<<<< HEAD
+V-CENTER :
+1.How to create the server in v-center.
+=======
+>>>>>>> siva
+>>>>>>> reddy
